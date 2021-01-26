@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "PlC24VVMMLu09IW0P2/YQDIKTCXZ7R27ioZtMSBAUKurLtpuT3meWNHkeEawWxTGzesLzC8zlxKyLpVtPQkXLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andreas.larsson15\\Documents\\Programmering\\Novemberprojekt 2020\\Space Invaders\\Space Invaders.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andreas.larsson15\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.1\\microsoft.netcore.platforms.1.1.1.nupkg.sha512",
+    "C:\\Users\\andreas.larsson15\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\andreas.larsson15\\.nuget\\packages\\raylib-cs\\3.1.5\\raylib-cs.3.1.5.nupkg.sha512",
+    "C:\\Users\\andreas.larsson15\\.nuget\\packages\\runtime.native.system\\4.3.1\\runtime.native.system.4.3.1.nupkg.sha512",
+    "C:\\Users\\andreas.larsson15\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

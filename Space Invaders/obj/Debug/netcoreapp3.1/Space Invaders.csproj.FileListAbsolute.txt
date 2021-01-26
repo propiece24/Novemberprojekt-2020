@@ -1,0 +1,20 @@
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\bin\Debug\netcoreapp3.1\Space Invaders.exe
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\bin\Debug\netcoreapp3.1\Space Invaders.deps.json
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\bin\Debug\netcoreapp3.1\Space Invaders.runtimeconfig.json
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\bin\Debug\netcoreapp3.1\Space Invaders.runtimeconfig.dev.json
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\bin\Debug\netcoreapp3.1\Space Invaders.dll
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\bin\Debug\netcoreapp3.1\Space Invaders.pdb
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\bin\Debug\netcoreapp3.1\Raylib-cs.dll
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libraylib.so
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libraylib.so
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libraylib.dylib
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\raylib.dll
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\raylib.dll
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\obj\Debug\netcoreapp3.1\Space Invaders.csprojAssemblyReference.cache
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\obj\Debug\netcoreapp3.1\Space Invaders.AssemblyInfoInputs.cache
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\obj\Debug\netcoreapp3.1\Space Invaders.AssemblyInfo.cs
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\obj\Debug\netcoreapp3.1\Space Invaders.csproj.CoreCompileInputs.cache
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\obj\Debug\netcoreapp3.1\Space Invaders.csproj.CopyComplete
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\obj\Debug\netcoreapp3.1\Space Invaders.dll
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\obj\Debug\netcoreapp3.1\Space Invaders.pdb
+C:\Users\andreas.larsson15\Documents\Programmering\Novemberprojekt 2020\Space Invaders\obj\Debug\netcoreapp3.1\Space Invaders.genruntimeconfig.cache
